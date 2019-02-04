@@ -1,1 +1,1 @@
-# PODEM-ATPG-python
+# PODEM-ATPG
